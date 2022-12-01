@@ -3,7 +3,7 @@
 // Complete this function to return either
 // "Hello, [name]!" or "Hello there!"
 // based on the input
-    
+class Challenge {    
     public static String sayHello(String name) {
         // You can print to STDOUT for debugging if you need to:
        // System.out.print(name);
@@ -18,3 +18,4 @@
         // but you need to return the correct value in order to pass the challenge
         return message; // TODO: return the correct value
     }
+}    
